@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lab-3milestone1</string>
+    <string name="submit">Submit</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="subitem_1">SubItem 1</string>
+    <string name="subitem_2">SubItem 2</string>
 </resources>
